@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "moPZgLAxDMagVg1c0KiRr2JVApPaaOfYW+CkGriHuVE=",
+  "Hash": "yN+eQ8rR7XUzMWLUE5eyY7I/I66hYdHi0FhKcRhUINk=",
   "Source": "BlazorApp",
   "BasePath": "_content/BlazorApp",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "BlazorApp\\wwwroot",
       "Source": "BlazorApp",
-      "ContentRoot": "D:\\Git\\Training\\Projects\\BlazorApp\\BlazorApp\\wwwroot\\",
+      "ContentRoot": "D:\\Git\\Training\\Projects\\GitDemo\\BlazorApp\\wwwroot\\",
       "BasePath": "_content/BlazorApp",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\Git\\Training\\Projects\\BlazorApp\\BlazorApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorApp.styles.css",
+      "Identity": "D:\\Git\\Training\\Projects\\GitDemo\\BlazorApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorApp.styles.css",
       "SourceId": "BlazorApp",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\Git\\Training\\Projects\\BlazorApp\\BlazorApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\Git\\Training\\Projects\\GitDemo\\BlazorApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/BlazorApp",
       "RelativePath": "BlazorApp#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -35,13 +35,13 @@
       "Integrity": "3W8wvjCoA3cEZdImdtIrDqmx/bNax/z9zChK5WgZ08E=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Git\\Training\\Projects\\BlazorApp\\BlazorApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorApp.styles.css"
+      "OriginalItemSpec": "D:\\Git\\Training\\Projects\\GitDemo\\BlazorApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorApp.styles.css"
     },
     {
-      "Identity": "D:\\Git\\Training\\Projects\\BlazorApp\\BlazorApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorApp.bundle.scp.css",
+      "Identity": "D:\\Git\\Training\\Projects\\GitDemo\\BlazorApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorApp.bundle.scp.css",
       "SourceId": "BlazorApp",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\Git\\Training\\Projects\\BlazorApp\\BlazorApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\Git\\Training\\Projects\\GitDemo\\BlazorApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/BlazorApp",
       "RelativePath": "BlazorApp#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -56,13 +56,13 @@
       "Integrity": "3W8wvjCoA3cEZdImdtIrDqmx/bNax/z9zChK5WgZ08E=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Git\\Training\\Projects\\BlazorApp\\BlazorApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorApp.bundle.scp.css"
+      "OriginalItemSpec": "D:\\Git\\Training\\Projects\\GitDemo\\BlazorApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorApp.bundle.scp.css"
     },
     {
-      "Identity": "D:\\Git\\Training\\Projects\\BlazorApp\\BlazorApp\\wwwroot\\app.css",
+      "Identity": "D:\\Git\\Training\\Projects\\GitDemo\\BlazorApp\\wwwroot\\app.css",
       "SourceId": "BlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git\\Training\\Projects\\BlazorApp\\BlazorApp\\wwwroot\\",
+      "ContentRoot": "D:\\Git\\Training\\Projects\\GitDemo\\BlazorApp\\wwwroot\\",
       "BasePath": "_content/BlazorApp",
       "RelativePath": "app#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -80,10 +80,10 @@
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "D:\\Git\\Training\\Projects\\BlazorApp\\BlazorApp\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "D:\\Git\\Training\\Projects\\GitDemo\\BlazorApp\\wwwroot\\bootstrap\\bootstrap.min.css",
       "SourceId": "BlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git\\Training\\Projects\\BlazorApp\\BlazorApp\\wwwroot\\",
+      "ContentRoot": "D:\\Git\\Training\\Projects\\GitDemo\\BlazorApp\\wwwroot\\",
       "BasePath": "_content/BlazorApp",
       "RelativePath": "bootstrap/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -101,10 +101,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\Git\\Training\\Projects\\BlazorApp\\BlazorApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "D:\\Git\\Training\\Projects\\GitDemo\\BlazorApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "BlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git\\Training\\Projects\\BlazorApp\\BlazorApp\\wwwroot\\",
+      "ContentRoot": "D:\\Git\\Training\\Projects\\GitDemo\\BlazorApp\\wwwroot\\",
       "BasePath": "_content/BlazorApp",
       "RelativePath": "bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -122,10 +122,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\Git\\Training\\Projects\\BlazorApp\\BlazorApp\\wwwroot\\favicon.png",
+      "Identity": "D:\\Git\\Training\\Projects\\GitDemo\\BlazorApp\\wwwroot\\favicon.png",
       "SourceId": "BlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git\\Training\\Projects\\BlazorApp\\BlazorApp\\wwwroot\\",
+      "ContentRoot": "D:\\Git\\Training\\Projects\\GitDemo\\BlazorApp\\wwwroot\\",
       "BasePath": "_content/BlazorApp",
       "RelativePath": "favicon#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -146,7 +146,7 @@
   "Endpoints": [
     {
       "Route": "app.css",
-      "AssetFile": "D:\\Git\\Training\\Projects\\BlazorApp\\BlazorApp\\wwwroot\\app.css",
+      "AssetFile": "D:\\Git\\Training\\Projects\\GitDemo\\BlazorApp\\wwwroot\\app.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -183,7 +183,7 @@
     },
     {
       "Route": "app.da95v2qkru.css",
-      "AssetFile": "D:\\Git\\Training\\Projects\\BlazorApp\\BlazorApp\\wwwroot\\app.css",
+      "AssetFile": "D:\\Git\\Training\\Projects\\GitDemo\\BlazorApp\\wwwroot\\app.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -228,7 +228,7 @@
     },
     {
       "Route": "BlazorApp.bundle.scp.css",
-      "AssetFile": "D:\\Git\\Training\\Projects\\BlazorApp\\BlazorApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorApp.bundle.scp.css",
+      "AssetFile": "D:\\Git\\Training\\Projects\\GitDemo\\BlazorApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorApp.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -265,7 +265,7 @@
     },
     {
       "Route": "BlazorApp.styles.css",
-      "AssetFile": "D:\\Git\\Training\\Projects\\BlazorApp\\BlazorApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorApp.styles.css",
+      "AssetFile": "D:\\Git\\Training\\Projects\\GitDemo\\BlazorApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorApp.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -302,7 +302,7 @@
     },
     {
       "Route": "BlazorApp.x7csz8uxo5.bundle.scp.css",
-      "AssetFile": "D:\\Git\\Training\\Projects\\BlazorApp\\BlazorApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorApp.bundle.scp.css",
+      "AssetFile": "D:\\Git\\Training\\Projects\\GitDemo\\BlazorApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorApp.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -347,7 +347,7 @@
     },
     {
       "Route": "BlazorApp.x7csz8uxo5.styles.css",
-      "AssetFile": "D:\\Git\\Training\\Projects\\BlazorApp\\BlazorApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorApp.styles.css",
+      "AssetFile": "D:\\Git\\Training\\Projects\\GitDemo\\BlazorApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorApp.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -392,7 +392,7 @@
     },
     {
       "Route": "bootstrap/bootstrap.min.bpk8xqwxhs.css",
-      "AssetFile": "D:\\Git\\Training\\Projects\\BlazorApp\\BlazorApp\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "AssetFile": "D:\\Git\\Training\\Projects\\GitDemo\\BlazorApp\\wwwroot\\bootstrap\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -437,7 +437,7 @@
     },
     {
       "Route": "bootstrap/bootstrap.min.css",
-      "AssetFile": "D:\\Git\\Training\\Projects\\BlazorApp\\BlazorApp\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "AssetFile": "D:\\Git\\Training\\Projects\\GitDemo\\BlazorApp\\wwwroot\\bootstrap\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -474,7 +474,7 @@
     },
     {
       "Route": "bootstrap/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "D:\\Git\\Training\\Projects\\BlazorApp\\BlazorApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "AssetFile": "D:\\Git\\Training\\Projects\\GitDemo\\BlazorApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -519,7 +519,7 @@
     },
     {
       "Route": "bootstrap/bootstrap.min.css.map",
-      "AssetFile": "D:\\Git\\Training\\Projects\\BlazorApp\\BlazorApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "AssetFile": "D:\\Git\\Training\\Projects\\GitDemo\\BlazorApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -556,7 +556,7 @@
     },
     {
       "Route": "favicon.ifv42okdf2.png",
-      "AssetFile": "D:\\Git\\Training\\Projects\\BlazorApp\\BlazorApp\\wwwroot\\favicon.png",
+      "AssetFile": "D:\\Git\\Training\\Projects\\GitDemo\\BlazorApp\\wwwroot\\favicon.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -601,7 +601,7 @@
     },
     {
       "Route": "favicon.png",
-      "AssetFile": "D:\\Git\\Training\\Projects\\BlazorApp\\BlazorApp\\wwwroot\\favicon.png",
+      "AssetFile": "D:\\Git\\Training\\Projects\\GitDemo\\BlazorApp\\wwwroot\\favicon.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
