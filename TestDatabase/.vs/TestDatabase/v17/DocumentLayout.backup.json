@@ -1,0 +1,67 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Git\\Training\\Projects\\TestDatabase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA66625F-2C42-49F4-BD6D-C2228B419E12}|TestDatabase\\TestDatabase.sqlproj|D:\\Git\\Training\\Projects\\TestDatabase\\TestDatabase\\StoredProcedures\\usp_InsertEmp.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{DA66625F-2C42-49F4-BD6D-C2228B419E12}|TestDatabase\\TestDatabase.sqlproj|solutionrelative:TestDatabase\\StoredProcedures\\usp_InsertEmp.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA66625F-2C42-49F4-BD6D-C2228B419E12}|TestDatabase\\TestDatabase.sqlproj|D:\\Git\\Training\\Projects\\TestDatabase\\TestDatabase\\Scripts\\InsertScript.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{DA66625F-2C42-49F4-BD6D-C2228B419E12}|TestDatabase\\TestDatabase.sqlproj|solutionrelative:TestDatabase\\Scripts\\InsertScript.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA66625F-2C42-49F4-BD6D-C2228B419E12}|TestDatabase\\TestDatabase.sqlproj|D:\\Git\\Training\\Projects\\TestDatabase\\TestDatabase\\Scripts\\InsertScript.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{DA66625F-2C42-49F4-BD6D-C2228B419E12}|TestDatabase\\TestDatabase.sqlproj|solutionrelative:TestDatabase\\Scripts\\InsertScript.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA66625F-2C42-49F4-BD6D-C2228B419E12}|TestDatabase\\TestDatabase.sqlproj|D:\\Git\\Training\\Projects\\TestDatabase\\TestDatabase\\StoredProcedures\\usp_InsertEmp.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{DA66625F-2C42-49F4-BD6D-C2228B419E12}|TestDatabase\\TestDatabase.sqlproj|solutionrelative:TestDatabase\\StoredProcedures\\usp_InsertEmp.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "usp_InsertEmp.sql ",
+              "DocumentMoniker": "D:\\Git\\Training\\Projects\\TestDatabase\\TestDatabase\\StoredProcedures\\usp_InsertEmp.sql",
+              "RelativeDocumentMoniker": "TestDatabase\\StoredProcedures\\usp_InsertEmp.sql",
+              "ToolTip": "D:\\Git\\Training\\Projects\\TestDatabase\\TestDatabase\\StoredProcedures\\usp_InsertEmp.sql\r\n(localdb)\\ProjectModels.TestDatabase\r\n(DELTAINTECH\\vadhuri)",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-12-05T07:31:16.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InsertScript.sql ",
+              "DocumentMoniker": "D:\\Git\\Training\\Projects\\TestDatabase\\TestDatabase\\Scripts\\InsertScript.sql",
+              "RelativeDocumentMoniker": "TestDatabase\\Scripts\\InsertScript.sql",
+              "ToolTip": "D:\\Git\\Training\\Projects\\TestDatabase\\TestDatabase\\Scripts\\InsertScript.sql",
+              "RelativeToolTip": "TestDatabase\\Scripts\\InsertScript.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-12-05T07:26:13.33Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+D:\Git\Training\Projects\TestDatabase\TestDatabase\bin\Debug\TestDatabase.dacpac
+D:\Git\Training\Projects\TestDatabase\TestDatabase\bin\Debug\TestDatabase.dll
+D:\Git\Training\Projects\TestDatabase\TestDatabase\bin\Debug\TestDatabase.pdb
+D:\Git\Training\Projects\TestDatabase\TestDatabase\obj\Debug\TestDatabase.sqlproj.AssemblyReference.cache
+D:\Git\Training\Projects\TestDatabase\TestDatabase\obj\Debug\Model.xml
+D:\Git\Training\Projects\TestDatabase\TestDatabase\obj\Debug\refactor.xml
+D:\Git\Training\Projects\TestDatabase\TestDatabase\obj\Debug\postdeploy.sql
+D:\Git\Training\Projects\TestDatabase\TestDatabase\obj\Debug\predeploy.sql
+D:\Git\Training\Projects\TestDatabase\TestDatabase\obj\Debug\TestDatabase.dll
+D:\Git\Training\Projects\TestDatabase\TestDatabase\obj\Debug\TestDatabase.pdb
