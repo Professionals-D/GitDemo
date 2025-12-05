@@ -1,0 +1,14 @@
+D:\Git\Training\Projects\ConsoleApp\ConsoleApp\bin\Debug\net8.0\ConsoleApp.exe
+D:\Git\Training\Projects\ConsoleApp\ConsoleApp\bin\Debug\net8.0\ConsoleApp.deps.json
+D:\Git\Training\Projects\ConsoleApp\ConsoleApp\bin\Debug\net8.0\ConsoleApp.runtimeconfig.json
+D:\Git\Training\Projects\ConsoleApp\ConsoleApp\bin\Debug\net8.0\ConsoleApp.dll
+D:\Git\Training\Projects\ConsoleApp\ConsoleApp\bin\Debug\net8.0\ConsoleApp.pdb
+D:\Git\Training\Projects\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\Training\Projects\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfoInputs.cache
+D:\Git\Training\Projects\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfo.cs
+D:\Git\Training\Projects\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Git\Training\Projects\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.dll
+D:\Git\Training\Projects\ConsoleApp\ConsoleApp\obj\Debug\net8.0\refint\ConsoleApp.dll
+D:\Git\Training\Projects\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.pdb
+D:\Git\Training\Projects\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.genruntimeconfig.cache
+D:\Git\Training\Projects\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ref\ConsoleApp.dll
