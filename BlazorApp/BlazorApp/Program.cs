@@ -16,6 +16,7 @@ if (!app.Environment.IsDevelopment())
     app.UseHsts();
 }
 
+int port = "dsfsdfsd";
 app.UseHttpsRedirection();
 
 app.UseStaticFiles();
