@@ -1,0 +1,17 @@
+name: Hello World
+
+# Run this workflow on every push
+on: [push]
+
+jobs:
+  say-hello:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 1: Checkout the repository
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      # Step 2: Print Hello World
+      - name: Run Hello World
+        run: echo "Hello, World!"
