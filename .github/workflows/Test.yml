@@ -1,0 +1,14 @@
+    name: Hello World Workflow
+
+    on: [push] # This workflow runs on every push to any branch
+
+    jobs:
+      build:
+        runs-on: ubuntu-latest # The job will run on an Ubuntu virtual machine
+
+        steps:
+          - name: Checkout repository
+            uses: actions/checkout@v4 # Action to check out your repository's code
+
+          - name: Say Hello
+            run: echo "Hello World!" # A step to run a shell command

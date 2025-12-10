@@ -1,0 +1,33 @@
+name: .NET CI
+
+on:
+  push:
+    branches: [ main, develop ]
+  pull_request:
+    branches: [ main, develop ]
+
+jobs:
+  build:
+    runs-on: windows-latest # Or ubuntu-latest, macos-latest depending on your needs
+
+    steps:
+    - uses: actions/checkout@v4 # Checkout the repository code
+      with:
+        fetch-depth: 0 # Fetch all history for all branches and tags
+
+    - name: Setup .NET
+      uses: actions/setup-dotnet@v4
+      with:
+        dotnet-version: '8.0.x' # Specify the .NET SDK version
+
+    - name: Restore dependencies
+      run: |
+            cd BlazorApp
+            dotnet restore
+
+    - name: Build
+      run: |
+            cd BlazorApp
+            dotnet build --configuration Release --no-restore
+
+
