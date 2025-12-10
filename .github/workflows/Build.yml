@@ -21,7 +21,9 @@ jobs:
         dotnet-version: '8.0.x' # Specify the .NET SDK version
 
     - name: Restore dependencies
-      run: dotnet restore
+      run: |
+            cd BlazorApp
+            dotnet restore
 
     - name: Build
       run: dotnet build --configuration Release --no-restore
