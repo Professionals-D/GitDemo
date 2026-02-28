@@ -1,4 +1,5 @@
-﻿CREATE PROCEDURE [dbo].[usp_InsertEmp]
+﻿--Added Comment Line By Rajesh
+CREATE PROCEDURE [dbo].[usp_InsertEmp]
 (
 	@Id INT,
     @EmpName NVARCHAR(50),
